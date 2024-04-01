@@ -1,10 +1,9 @@
 # Optimum Energy Advances with Artificial Intelligence
 
 ## Overview and Origin
-## Overview and Origin
 
-* Name of company
 ![alt text](OE_Logo.jpg)
+
 Optimum Energy, a developer and provider of innovative software solutions and engineering services was founded in 2005 in Seattle, Washinton by Nathan Rothman (Chairman, Founder), and Ben Erpelding (Chief Technical Officer), with the primary offering based upon the previously developed "Hartman Loop" method of chilled water plant control by Tom Hartman (PE,Mechanical Engineer).  Nathan Rothman is a serial entrepreneur. Before founding Seattle-based Optimum Energy in 2006, he launched a number of widely disparate companies, including a bar and restaurant in New York, Valiant Yachts Corp. in Texas, and a manufacturing company that built plants around the world for Nike and Reebok. “I just have this quirky interest in how things work,” says Rothman, 63.  Source:  National Real Estate Investor (Source:  Northwest Real Estate Investor https://www.nreionline.com/sustainability/qa-optimum-energy-s-nathan-rothman )
 
 Nathan said that the idea of starting Optimum Energy came from his experience building manufacturing plants around the world.  He had started companies before that revolutionized that industry.  Because he was an "outdoors kind of guy", he was very concerned about the environment and that those large plants had big costs associated with labor, electricity, and energy costs.  He came across the Hartman Loop technology while building those international plants to North American standards.  He contacted Tom Hartman, and Tom was providing the optimization solution through engineering as a service, customizing the program to optimize each plant individually, taking as long as 3 months or more just to write the software for one chilled water plant.  Nathan convinced Tom to license the technology to "Optimum Energy" so they could develop it into a "plug and play" solution.  The result was a company developing a plug and play optimization that could work with one of any 25 or more companies that sell building automation systems around the world.  (Source:  Northwest Innovation https://www.nwinnovation.com/interview_with_nathan_rothman_optimum_energy/s-0027374.html )
