@@ -1,6 +1,9 @@
 # Optimum Energy Advances with Artificial Intelligence
 
 ## Overview and Origin
+## Overview and Origin
+
+* Name of company
 ![alt text](OE_Logo.jpg)
 Optimum Energy, a developer and provider of innovative software solutions and engineering services was founded in 2005 in Seattle, Washinton by Nathan Rothman (Chairman, Founder), and Ben Erpelding (Chief Technical Officer), with the primary offering based upon the previously developed "Hartman Loop" method of chilled water plant control by Tom Hartman (PE,Mechanical Engineer).  Nathan Rothman is a serial entrepreneur. Before founding Seattle-based Optimum Energy in 2006, he launched a number of widely disparate companies, including a bar and restaurant in New York, Valiant Yachts Corp. in Texas, and a manufacturing company that built plants around the world for Nike and Reebok. “I just have this quirky interest in how things work,” says Rothman, 63.  Source:  National Real Estate Investor (Source:  Northwest Real Estate Investor https://www.nreionline.com/sustainability/qa-optimum-energy-s-nathan-rothman )
 
