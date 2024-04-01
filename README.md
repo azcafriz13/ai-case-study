@@ -36,21 +36,21 @@ Other major companies in this field including most of the major controls and HVA
 The greatest impact of Optimum Energy was to challenge the HVAC industry to start operating chilled water plants and similar systems differently than they had been operating historically, saving huge amounts of energy.  Optimum Energy provided a scaled software version of the "Hartman Loop" developed by Tom Hartman that was more widely applicable and less custom and less costly.  This caught the attention of customers who were looking to improve their sustainability impact and greenhouse gas footprint, while also catching the attention of HVAC controls companies that sold projects based upon payback.  The competition in the market has led to projects that have 35% energy savings with a payback of five years (Source: https://www.gsa.gov/climate-action-and-sustainability/center-for-emerging-building-technologies/completed-assessments/energy-management/chiller-plant-control-optimization )
 
 As a software startup, the primary metrics for success are revenue, profitability, marketshare, and uniqueness that would allow the company's investors to get their return on investment, likely through a purchase by a larger company. Product acceptance is important in this industry, so "number of installations" has been a metric for acceptance, as well as customer savings.  Optimum Energy currently boasts:
-    * Over 500 installations across 4 continents,
-    * Nearly $300 million dollars of customer savings 
-    * Saved 2.5 billion kilowatt-hours of electricity, and 
-    * Reduced greenhouse gases by 3.4 billion pounds. (source: https://optimumenergyco.com/about/)
+* Over 500 installations across 4 continents,
+* Nearly $300 million dollars of customer savings 
+* Saved 2.5 billion kilowatt-hours of electricity, and 
+* Reduced greenhouse gases by 3.4 billion pounds. (source: https://optimumenergyco.com/about/)
 In 2023, Bernhard Capital Partners, a private equity firm with approximately $3.4 billion in gross assets under management, acquired Optimum Energy.  Optimum Energy had operated as an independent LLC from 2005 until the 2023 acquisition.  
 ![alt text](OE_OptiCx_Platform.jpg)
 
 I am a former employee of Optimum Energy, and I now work for a company that contracts with organizations like Optimum Energy in many different sectors.  My employer, Ameresco, Inc. (NYSE:AMRC) is a leading cleantech integrator and renewable energy asset developer, owner and operator.  We are the leading "ESCo" or Energy Service Company in the North American market.  Our close competitor is Siemens ESCo, whose optimization technology in a separate division is a direct competitor to Optimum Energy.  As a general contractor, Ameresco has contracted with both Optimum Energy and Siemens.   
 
 Ameresco currently has over 60 regional offices located throughout the United States, Canada, the United Kingdom, and Europe.  Ameresco and CEO George Sakellaris released the following financials in its 2023 Financial Results:
-    * Record Total Project Backlog of nearly $4B, with $520M in New Awards in Q4
-    * 717 MWe of Assets in Development, with 63 MWe Placed into Operation in the Quarter Guiding to 38% Adj. EBITDA Growth at 
+* Record Total Project Backlog of nearly $4B, with $520M in New Awards in Q4
+* 717 MWe of Assets in Development, with 63 MWe Placed into Operation in the Quarter Guiding to 38% Adj. EBITDA Growth at 
         the Midpoint for 2024
-    * Revenues of $1,374.6 million and $441.4 million
-    * Net income attributable to common shareholders of $62.5 million and $33.7 million
+* Revenues of $1,374.6 million and $441.4 million
+* Net income attributable to common shareholders of $62.5 million and $33.7 million
 
 ![ ](AMRC_LOGO.jpg) ![alt text](GeorgeSakellaris-1.jpg)
 
