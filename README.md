@@ -11,6 +11,7 @@ Nathan said that the idea of starting Optimum Energy came from his experience bu
 Nathan described the initial funding of $10 million through private equity.  
 
 > "We're actually private equity funded. In my mind, there's a difference. We view ourselves as transforming an industry, heating and air conditioning, which is very fragmented, and has a "we've always done it this way", not-invented-here attitude--and we're trying to introduce radical technology to that industry. Because of that, it's tough to be able to project where the inflection will come. To cite an example, if you look at fluorescent lighting, where we went from mechanical to solid state ballast in lighting, that took 15 years to implement. That's such a basic change--you're still using fluorescent lighting, and it's just that electronic ballasts work cleaner and better. So, in my mind, private equity has a much longer window and view of the world than venture capital. We raised just about $10M from a private equity fund. I funded things in the beginning, and there are few angels who took small chunks before I met these guys, who took the rest--and we've never gotten out of the board room on subsequent raises. We have no plans to raise more money right now, and we're growing 150 to 200 percent a year."  
+
 (Source:  From Northwest Innovation https://www.nwinnovation.com/interview_with_nathan_rothman_optimum_energy/s-0027374.html)  
 Optimum Energy then hired mechanical engineer and former professional skateboarder Ben Erpelding, PE, of San Diego, California to manage and engineer the link between software engineers and the mechanical engineering aspects of what would become "OptimumLOOP" and other applications.  Ben had successfully implemented "The Hartman Loop" at several facilities while employed by The California Center for Sustainable Energy (now known as the Center for Sustainable Energy).
 
@@ -40,10 +41,11 @@ Other major companies in this field including most of the major controls and HVA
 The greatest impact of Optimum Energy was to challenge the HVAC industry to start operating chilled water plants and similar systems differently than they had been operating historically, saving huge amounts of energy.  Optimum Energy provided a scaled software version of the "Hartman Loop" developed by Tom Hartman that was more widely applicable and less custom and less costly.  This caught the attention of customers who were looking to improve their sustainability impact and greenhouse gas footprint, while also catching the attention of HVAC controls companies that sold projects based upon payback.  The competition in the market has led to projects that have 35% energy savings with a payback of five years (Source: https://www.gsa.gov/climate-action-and-sustainability/center-for-emerging-building-technologies/completed-assessments/energy-management/chiller-plant-control-optimization )
 
 As a software startup, the primary metrics for success are revenue, profitability, marketshare, and uniqueness that would allow the company's investors to get their return on investment, likely through a purchase by a larger company. Product acceptance is important in this industry, so "number of installations" has been a metric for acceptance, as well as customer savings.  Optimum Energy currently boasts:
-* Over 500 installations across 4 continents,
+* **Over 500 installations across 4 continents,
 * Nearly $300 million dollars of customer savings 
 * Saved 2.5 billion kilowatt-hours of electricity, and 
-* Reduced greenhouse gases by 3.4 billion pounds. (source: https://optimumenergyco.com/about/)
+* Reduced greenhouse gases by 3.4 billion pounds. **
+(source: https://optimumenergyco.com/about/)
 In 2023, Bernhard Capital Partners, a private equity firm with approximately $3.4 billion in gross assets under management, acquired Optimum Energy.  Optimum Energy had operated as an independent LLC from 2005 until the 2023 acquisition.  
 ![alt text](OE_OptiCx_Platform.jpg)
 
@@ -69,7 +71,11 @@ https://www.linkedin.com/posts/ameresco_museumfacilities-energyoptimization-iamf
 
 Sources Referenced:
 Link to Northwest Real Estate Investor https://www.nreionline.com/sustainability/qa-optimum-energy-s-nathan-rothman
+
 Link to Northwest Innovation https://www.nwinnovation.com/interview_with_nathan_rothman_optimum_energy/s-0027374.html
+
 Link to Optimum Energy https://optimumenergyco.com/about/
+
 Link to PRNewsWire https://www.prnewswire.com/news-releases/optimum-energy-and-tignis-enter-into-a-worldwide-exclusivity-agreement-to-advance-efficiency-for-hvac-solutions-301871523.html
-link to Ameresco:  https://ir.ameresco.com/news-events/press-releases/detail/612/ameresco-reports-fourth-quarter-and-full-year-2023
+
+Link to Ameresco:  https://ir.ameresco.com/news-events/press-releases/detail/612/ameresco-reports-fourth-quarter-and-full-year-2023
