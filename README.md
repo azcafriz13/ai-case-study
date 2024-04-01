@@ -45,7 +45,9 @@ As a software startup, the primary metrics for success are revenue, profitabilit
 * **Nearly $300 million dollars of customer savings**
 * **Saved 2.5 billion kilowatt-hours of electricity, and** 
 * **Reduced greenhouse gases by 3.4 billion pounds.**
+
 (source: https://optimumenergyco.com/about/)
+
 In 2023, Bernhard Capital Partners, a private equity firm with approximately $3.4 billion in gross assets under management, acquired Optimum Energy.  Optimum Energy had operated as an independent LLC from 2005 until the 2023 acquisition.  
 ![alt text](OE_OptiCx_Platform.jpg)
 
