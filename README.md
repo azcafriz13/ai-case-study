@@ -43,13 +43,13 @@ In 2023, Bernhard Capital Partners, a private equity firm with approximately $3.
 I am a former employee of Optimum Energy, and I now work for a company that contracts with organizations like Optimum Energy in many different sectors.  My employer, Ameresco, Inc. (NYSE:AMRC) is a leading cleantech integrator and renewable energy asset developer, owner and operator.  We are the leading "ESCo" or Energy Service Company in the North American market.  Our close competitor is Siemens ESCo, whose optimization technology in a separate division is a direct competitor to Optimum Energy.  As a general contractor, Ameresco has contracted with both Optimum Energy and Siemens.   
 
 Ameresco currently has over 60 regional offices located throughout the United States, Canada, the United Kingdom, and Europe.  Ameresco and CEO George Sakellaris released the following financials in its 2023 Financial Results:
-    *Record Total Project Backlog of nearly $4B, with $520M in New Awards in Q4
-    *717 MWe of Assets in Development, with 63 MWe Placed into Operation in the Quarter Guiding to 38% Adj. EBITDA Growth at 
+    * Record Total Project Backlog of nearly $4B, with $520M in New Awards in Q4
+    * 717 MWe of Assets in Development, with 63 MWe Placed into Operation in the Quarter Guiding to 38% Adj. EBITDA Growth at 
         the Midpoint for 2024
-    *Revenues of $1,374.6 million and $441.4 million
-    *Net income attributable to common shareholders of $62.5 million and $33.7 million
-    
-    ![ ](AMRC_LOGO.jpg)![alt text](GeorgeSakellaris.jpg)
+    * Revenues of $1,374.6 million and $441.4 million
+    * Net income attributable to common shareholders of $62.5 million and $33.7 million
+
+![ ](AMRC_LOGO.jpg) ![alt text](GeorgeSakellaris-1.jpg)
 
 ## Recommendations
 
